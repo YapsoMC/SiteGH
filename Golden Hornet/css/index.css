@@ -1,0 +1,207 @@
+html{
+  background-color: black;
+  color: white;
+}
+
+body{
+  margin: 0;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.page{
+  z-index: 10;
+
+}
+
+video{
+  position: fixed;
+  opacity: 10%;
+  z-index: -10000;
+}
+.images{
+  text-align: center;
+  margin: auto;
+}
+.images img{
+
+  width: 20%;
+}
+
+.index2{
+  text-align: center;
+}
+
+.index2 h1{
+  font-family: 'Anton', sans-serif;
+  font-size: 6vw;
+  z-index: 10;
+  color: #fdc32e;
+  margin: 0;
+}
+
+.index2 p{
+  margin-bottom: 4vw;
+}
+
+.lien{
+  text-align: center;
+  margin: auto;
+}
+
+.lien img{
+  width: 15%;
+  margin-left: 5vw;
+}
+
+
+.lien hr{
+  opacity: 0;
+}
+
+
+
+.acceuil{
+
+}
+
+#qui{
+    background-color: #0f0f0f;
+    margin: 0px;
+    z-index: 30;
+}
+
+.pqui{
+    display: flex;
+    align-items: center;
+    height: 44vw;
+}
+
+.pqui img{
+  width: 40vw;
+  margin-right: 4vw;
+  padding-bottom: 2vw;
+  padding-left: 2vw;
+}
+
+
+#qui h1{
+    background-color: #0f0f0f;
+    font-family: 'Anton', sans-serif;
+    font-size: 3vw;
+    z-index: 10;
+    color: #fdc32e;
+    margin: 0;
+    text-align: center;
+}
+
+.staff{
+    background-color: white;
+    margin: 0px;
+}
+
+.staff h1{
+    background-color: white;
+    font-family: 'Anton', sans-serif;
+    font-size: 3vw;
+    z-index: 10;
+    color: #fdc32e;
+    margin: 0;
+    text-align: center;
+}
+
+.ima{
+  text-align: center;
+  margin: auto;
+  height: 44vw;
+}
+
+.ima img{
+  width: 78%;
+}
+
+.rejoindre{
+    background-color: #0f0f0f;
+}
+
+.rejoindre h1{
+  background-color: #0f0f0f;
+  font-family: 'Anton', sans-serif;
+  font-size: 3vw;
+  z-index: 10;
+  color: #fdc32e;
+  margin: 0;
+  text-align: center;
+  margin-bottom: 1vw;
+}
+
+.rejoindre h2{
+  text-align: center;
+  margin: auto;
+  margin-bottom: 3vw;
+}
+
+.rezos{
+  display: flex;
+  margin-bottom: 3vw;
+}
+
+.rezos a img{
+  width: 7vw;
+  margin-left: 28vw;
+}
+
+.rejoindre .motiv p{
+  text-align: center;
+  margin: auto;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+
+.rejoindre p{
+  text-align: center;
+  margin: auto;
+  padding-bottom: 3vw;
+}
+
+.shop{
+    background-color: white;
+}
+
+.shop h1{
+  background-color: white;
+  font-family: 'Anton', sans-serif;
+  font-size: 5vw;
+  z-index: 10;
+  color: #fdc32e;
+  margin: 0;
+  text-align: center;
+}
+
+.shop p{
+  background-color: white;
+  font-family: 'Anton', sans-serif;
+  color: #fdc32e;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 2vw;
+}
+
+.shop a{
+  color: black;
+}
+
+.shop img{
+  width: 68%;
+}
+
+.shop .imashop{
+  text-align: center;
+  margin: auto;
+}
